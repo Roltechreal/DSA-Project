@@ -13,5 +13,15 @@ based on the dat provided to us, we had to clean the data, the analyse before vi
 ## Project overview
 by Analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions which can enable us to find compelling stories around our data from the insight gotten and to know the best performing from our data.
 
+# Tools used
+The following tools were used in achieving these project:
+1. Ms Excel (For querying and Analyzing)
+2. Power Bi ( For creating a report).
+
+## Data Cleaning
+In the initial phase of data cleaning, the following where carried out:
+- Data Loading and inspection
+- Data cleaning and formatting (We removed some null columns). 
+
 
 
