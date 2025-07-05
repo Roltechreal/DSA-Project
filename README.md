@@ -40,5 +40,11 @@ In this Project, We explore the data to answer some questions about the data. we
 - We were also asked to calculate the Total amount to be paid to individual employees ( Salary inclusive of bonus)
 -Total amount to be paid per Region and company wide.
 
+During the Analysis, some calculated columns were formed, we created the Dept_ Rating Column with the formular [Dept]&"/"&[Attribute], we created that for the bonus file and the original file given to us in order to have relationship between the two data.
+After that, the two files were merged using the merge button( merge as new). 
+
+Some null values that were still present after data clean up was replaced with 0. 
+
+We created A new column called Annual bonus, this is created based on the assigned bonus rate given from the bonus data we received . We use the formular Bonus Rate=[Salary]*[Bonus Rate] .
 
 
