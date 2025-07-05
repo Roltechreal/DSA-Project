@@ -8,3 +8,4 @@ This project is aimed at analysing the data given to us by palmora group, to fin
 
 ## Introduction 
 based on the dat provided to us, we had to clean the data, the analyse before visualizing. it has beeen a great experience working on data as a data analyst, we used two tools to achieved our end results for this project'
+## *Project Topic*
