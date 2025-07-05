@@ -4,7 +4,7 @@ This project is aimed at analysing the data given to us by palmora group, to fin
 ## Project Topic: 
 1. Palmora Group Hr Analysis
 2. Amazon Peoduct Review Analysis
-# Palmora Group HR Analysis
+## Palmora Group HR Analysis
 
 ## Introduction 
 based on the dat provided to us, we had to clean the data, the analyse before visualizing. it has beeen a great experience working on data as a data analyst, we used two tools to achieved our end results for this project'
@@ -34,9 +34,11 @@ In this Project, We explore the data to answer some questions about the data. we
 4. A recent Regulation was adopted which requires manufacturing companies to pay employee a minimum of $ 90,000
 
 -  Does Palmora meet this requirement?
--  Show the pay distribution of employee grouped by a band of $10,000- $20,000, $30, 000- $40,000 etc
+-  Show the pay distribution of emploee grouped by a band of $10,000- $20,000, $30, 000- $40,000 etc
 -  Visualize by Region.
-
+- An additional table of data (bonus table) was also received and the task was to calculate the Amount to be paid as a bonus to individual employees.
+- We were also asked to calculate the Total amount to be paid to individual employees ( Salary inclusive of bonus)
+-Total amount to be paid per Region and company wide.
 
 
 
