@@ -45,7 +45,7 @@ After that, the two files were merged using the merge button( merge as new).
 
 Some null values that were still present after data clean up was replaced with 0. 
 
-We created A new custom column called Annual bonus, this is created based on the assigned bonus rate given from the bonus data we received . We use the formular Bonus Rate=[Salary]*[Bonus Rate]. 
+We created A new custom column called Annual bonus, this is created based on the assigned bonus rate given from the bonus data we received . We use the formular Annual Bonus =[Salary]*[Bonus Rate]. 
 
 We Also created the conditional column, in order for us to know the range of Salary paid ($10,000-$20,000, $20,000-$30,000, $30,000-$40,000 etc).
 We then renamed the merged data table which we later used for the analysis to answer some of the question raised by the company Pamor.
