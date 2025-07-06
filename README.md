@@ -91,5 +91,8 @@ From our Analysis, we have seen that in this region, the males earn more than th
 From our Analysis, it is seen that the Management needs to Foucus on the three Regions in terms of Slary payments to both genders.
 
 ### For the distribution of pay by Department:
-There is no much difference in salary distribution between male and female.
+There is no much difference in salary distribution between male and female, but in Legal Department, male has 5.13% and female has 3.34% distribution. in Accounting Department, male has 4.11% while female has 2.93%.
+
+#To Find out of the company Palmora meets the Requirement of $90,000 salary to its staff
+They did not  reach the requirement $90,000 Minimum per employee, according to the analysis carried out, because, about 117 employee are paid $80,000, so this is below what the government ask them to pay the employees.
 
