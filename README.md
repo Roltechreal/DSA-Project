@@ -78,16 +78,19 @@ From the bar chart analysis shown above, Male employees are distributed more tha
 
 ![gender pay gap by region](https://github.com/user-attachments/assets/e4525410-0988-4052-871a-c3a12428a32e)
 
-##Below are the distribtion of the pay (Salary) by Region:
-### Kaduna: in this region, the male has $11,929,130 (17.11%)
+## Below are the distribtion of the pay (Salary) by Region:
+### Kaduna: 
+in this region, the male has $11,929,130 (17.11%)
  while the female has $13,622,690 (19.54%)
 From our Analysis, we have seen that in this region, the females earn more than the males.
 
-#### Abuja: in this region, the male has $11,131,420 (15.97%)
+#### Abuja: 
+in this region, the male has $11,131,420 (15.97%)
  while the female has $11,646,0640 (16.7%)
  In this region, females earn higher than the males.
 
-#### Lagos: in this region, the male has $9508400 (13.64%)
+#### Lagos: 
+in this region, the male has $9508400 (13.64%)
  while the female has $8751290 (12.55%)
 From our Analysis, we have seen that in this region, the males earn more than the females.
 From our Analysis, it is seen that the Management needs to Foucus on the three Regions in terms of Slary payments to both genders.
