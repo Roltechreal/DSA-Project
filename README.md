@@ -50,9 +50,25 @@ We then renamed the merged data table which we later used for the analysis to an
 
 ## Analysis of questions raised earlier.
 1. Gender distribution
-*Answer* : Based on region, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
+*Answer* : *Based on region*, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
 
 
 
 ![Capture](https://github.com/user-attachments/assets/2ab03b92-7fce-42bb-bd97-eafe17f89a8c)
+
+From the bar chart analysis shown above, Male employees are distributed more than the female. Male are 465 while female are 441.
+
+*Based on Department* : male are distributed more than the female. Male are 465 while females are 441 as shown below.
+
+![based on department](https://github.com/user-attachments/assets/a946eda2-4b42-4ac8-b711-9b444d9533d7)
+
+
+*Rating Based on Department* : 
+
+
+
+
+*Rating based on gender* : the female are rated higher than then mmale, females are rated 15 while males are rated 14 as shown below
+
+
 
