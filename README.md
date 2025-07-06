@@ -49,7 +49,7 @@ We then renamed the merged data table which we later used for the analysis to an
 
 ## Analysis of questions raised earlier.
 1. Gender distribution
-##Answer : *Based on region*, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
+## Answer : *Based on region*, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
 
 
 
@@ -57,34 +57,34 @@ We then renamed the merged data table which we later used for the analysis to an
 
 From the bar chart analysis shown above, Male employees are distributed more than the female. Male are 465 while female are 441.
 
-###Rating Based on Department : male are distributed more than the female. Male are 465 while females are 441 as shown below.
+### Rating Based on Department : male are distributed more than the female. Male are 465 while females are 441 as shown below.
 
 
 ![based on department](https://github.com/user-attachments/assets/d2e3f89a-cd66-460d-90a8-df7348b4f46e)
 
 
-###Rating based on gender : the female are rated higher than then mmale, females are rated 15 while males are rated 14 as shown below
+### Rating based on gender : the female are rated higher than then mmale, females are rated 15 while males are rated 14 as shown below
 
 
 
 ![based on gender main](https://github.com/user-attachments/assets/345177f1-cb2c-447f-aff4-38fac3edc67f)
 
-##Gender Pay Gap for the pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
+## Gender Pay Gap for the pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
 ![Gender pay Gap](https://github.com/user-attachments/assets/b3915fb2-bc65-45a1-ad08-213d8cec55f9)
 
-###Gender pay gap by region: From the piechart below We saw the pay distribtution based on the different regions:
+### Gender pay gap by region: From the piechart below We saw the pay distribtution based on the different regions:
 
 ![gender pay gap by region](https://github.com/user-attachments/assets/e4525410-0988-4052-871a-c3a12428a32e)
 
 Below are the distribtion of the pay (Salary) by Region:
-####Kaduna: in this region, the male has $11,929,130 (17.11%)
+### #Kaduna: in this region, the male has $11,929,130 (17.11%)
  while the female has $13,622,690 (19.54%)
 From our Analysis, we have seen that in this region, the females earn more than the males.
 
-####Abuja: in this region, the male has $11,131,420 (15.97%)
+#### Abuja: in this region, the male has $11,131,420 (15.97%)
  while the female has $11,646,0640 (16.7%)
- In this region, females earn higher than the males
+ In this region, females earn higher than the males.
 
-####Lagos: in this region, the male has $9508400 (13.64%)
+#### Lagos: in this region, the male has $9508400 (13.64%)
  while the female has $8751290 (12.55%)
 From our Analysis, we have seen that in this region, the males earn more than the females.
