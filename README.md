@@ -13,8 +13,7 @@ by Analysing the various parameters in the data received, we seek to gather enou
 
 # Tools used
 The following tools were used in achieving these project:
-1. Ms Excel (For querying and Analyzing)
-2. Power Bi ( For creating a report).
+1. Power Bi ( For creating a report).
 
 # Data Cleaning
 In the initial phase of data cleaning, the following where carried out:
@@ -54,21 +53,18 @@ We then renamed the merged data table which we later used for the analysis to an
 
 
 
-![Capture](https://github.com/user-attachments/assets/2ab03b92-7fce-42bb-bd97-eafe17f89a8c)
+![based on region](https://github.com/user-attachments/assets/bd8a4863-9ff1-4296-b53c-91f63a2266d0)
 
 From the bar chart analysis shown above, Male employees are distributed more than the female. Male are 465 while female are 441.
 
-*Based on Department* : male are distributed more than the female. Male are 465 while females are 441 as shown below.
-
-![based on department](https://github.com/user-attachments/assets/a946eda2-4b42-4ac8-b711-9b444d9533d7)
+*Rating Based on Department* : male are distributed more than the female. Male are 465 while females are 441 as shown below.
 
 
-*Rating Based on Department* : 
-
-
+![based on department](https://github.com/user-attachments/assets/d2e3f89a-cd66-460d-90a8-df7348b4f46e)
 
 
 *Rating based on gender* : the female are rated higher than then mmale, females are rated 15 while males are rated 14 as shown below
 
 
 
+![based on gender main](https://github.com/user-attachments/assets/345177f1-cb2c-447f-aff4-38fac3edc67f)
