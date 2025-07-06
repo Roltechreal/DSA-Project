@@ -49,6 +49,10 @@ We Also created the conditional column, in order for us to know the range of Sal
 We then renamed the merged data table which we later used for the analysis to answer some of the question raised by the company Pamor.
 
 ## Analysis of questions raised earlier.
+1. Gender distribution
+*Answer* : Based on region, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
 
 
+
+![Capture](https://github.com/user-attachments/assets/2ab03b92-7fce-42bb-bd97-eafe17f89a8c)
 
