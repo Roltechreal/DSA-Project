@@ -10,12 +10,14 @@ based on the dat provided to us, we had to clean the data, the analyse before vi
 
 ## Project overview
 by Analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions which can enable us to find compelling stories around our data from the insight gotten and to know the best performing from our data.
+## Data source
+The data is gotten from the Palmora group, a manufacturingbcompany based in Nigeria, the company is embroiled in issues bordering on gender inequality in its three regions.
 
-# Tools used
+## Tools used
 The following tools were used in achieving these project:
 1. Power Bi ( For creating a report).
 
-# Data Cleaning
+## Data Cleaning
 In the initial phase of data cleaning, the following where carried out:
 - Data Loading and inspection
 - Data cleaning and formatting (We removed some null columns).
@@ -49,7 +51,7 @@ We then renamed the merged data table which we later used for the analysis to an
 
 ## Analysis of questions raised earlier.
 1. Gender distribution
-## Answer : *Based on region*, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
+## Answer : Based on region, Male are distributed more in Palmora employment. This is shown with the Analysis chart below.
 
 
 
@@ -69,7 +71,7 @@ From the bar chart analysis shown above, Male employees are distributed more tha
 
 ![based on gender main](https://github.com/user-attachments/assets/345177f1-cb2c-447f-aff4-38fac3edc67f)
 
-## Gender Pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
+### Gender Pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
 ![Gender pay Gap](https://github.com/user-attachments/assets/b3915fb2-bc65-45a1-ad08-213d8cec55f9)
 
 ### Gender pay gap by region: From the piechart below We saw the pay distribtution based on the different regions:
@@ -122,4 +124,4 @@ From the barchart below:
 from the barchart above, it is seen that :
 1. In kaduna about 361 employees are paid salary
 2. In Abuja about 335 employees are paid salary
-3. In Lagos about 250 employees are paid salary
+3. In Lagos about 250 employees are paid salary.
