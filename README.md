@@ -102,16 +102,24 @@ They did not  reach the requirement $90,000 Minimum per employee, according to t
 
 ### To find the numbers of employees that fall into a band of $10,000-$20,000, $20,000- $30,000 etc 
 From the barchart below:
-![pay distribution of employee](https://github.com/user-attachments/assets/69205e7b-0dca-440e-b984-1942ffa45dbd)
 
-28 employees falls into a band of $30,000-$40,000.
-90 employees falls into the band of $100,000- $110,000.
-96 employees falls into the band of $60,000- $70,000.
-97 employees falls into the band of above $120,000.
-99 employees falls into the band of $70,000- $80,000.
-101 employees falls into the band of $40,000- $50,000.
-105 employees falls into the band of $50,000- $60,000
-105 employees falls into the band of $110,000- $120,000.
-108 employees falls into the band of $90,000- $100,000.
-117 employees falls into the band of $80,000- $90,000.
+- 28 employees falls into a band of $30,000-$40,000.
+- 90 employees falls into the band of $100,000- $110,000.
+- 96 employees falls into the band of $60,000- $70,000.
+- 97 employees falls into the band of above $120,000.
+- 99 employees falls into the band of $70,000- $80,000.
+- 101 employees falls into the band of $40,000- $50,000.
+- 105 employees falls into the band of $50,000- $60,000
+- 105 employees falls into the band of $110,000- $120,000.
+- 108 employees falls into the band of $90,000- $100,000.
+- 117 employees falls into the band of $80,000- $90,000.
 
+![pay distribution of employee](https://github.com/user-attachments/assets/82951a21-99d8-4911-8045-86691b0f692f)
+
+### Number of employee paid by Region
+![payment by region](https://github.com/user-attachments/assets/ff4994d2-682e-4623-8ceb-b4fdfc418088)
+
+from the barchart above, it is seen that :
+1. In kaduna about 361 employees are paid salary
+2. In Abuja about 335 employees are paid salary
+3. In Lagos about 250 employees are paid salary
