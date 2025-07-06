@@ -92,10 +92,26 @@ From our Analysis, it is seen that the Management needs to Foucus on the three R
 
 ### For the distribution of pay by Department:
 There is no much difference in salary distribution between male and female, but in Legal Department, male has 5.13% and female has 3.34% distribution. in Accounting Department, male has 4.11% while female has 2.93%.
+![gender pay gap by department](https://github.com/user-attachments/assets/5f5df721-a33d-4be6-8375-02a8e744ddbe)
 
-#To Find out of the company Palmora meets the Requirement of $90,000 salary to its staff
-They did not  reach the requirement $90,000 Minimum per employee, according to the analysis carried out, because, about 117 employee are paid $80,000, so this is below what the government ask them to pay the employees.
 
-![gender pay gap by department](https://github.com/user-attachments/assets/8efeb896-a307-4603-923e-6fa1caeb1471)
+# To Find out of the company Palmora meets the Requirement of $90,000 salary to its staff
+They did not  reach the requirement $90,000 Minimum per employee, according to the analysis carried out, because, about 117 employee are paid $80,000, so this is below what the government ask them to pay the employees, this is shown below from the barchart gotten from this analysis
 
+![pay distribution of employee](https://github.com/user-attachments/assets/8fad8e13-e3d1-4571-a699-8d81d2f7c589)
+
+### To find the numbers of employees that fall into a band of $10,000-$20,000, $20,000- $30,000 etc 
+From the barchart below:
+![pay distribution of employee](https://github.com/user-attachments/assets/69205e7b-0dca-440e-b984-1942ffa45dbd)
+
+28 employees falls into a band of $30,000-$40,000.
+90 employees falls into the band of $100,000- $110,000.
+96 employees falls into the band of $60,000- $70,000.
+97 employees falls into the band of above $120,000.
+99 employees falls into the band of $70,000- $80,000.
+101 employees falls into the band of $40,000- $50,000.
+105 employees falls into the band of $50,000- $60,000
+105 employees falls into the band of $110,000- $120,000.
+108 employees falls into the band of $90,000- $100,000.
+117 employees falls into the band of $80,000- $90,000.
 
