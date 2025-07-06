@@ -69,7 +69,7 @@ From the bar chart analysis shown above, Male employees are distributed more tha
 
 ![based on gender main](https://github.com/user-attachments/assets/345177f1-cb2c-447f-aff4-38fac3edc67f)
 
-## Gender Pay Gap for the pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
+## Gender Pay Gap, the male has the Total of $35M, While the female has $32M as shown below.
 ![Gender pay Gap](https://github.com/user-attachments/assets/b3915fb2-bc65-45a1-ad08-213d8cec55f9)
 
 ### Gender pay gap by region: From the piechart below We saw the pay distribtution based on the different regions:
@@ -95,4 +95,7 @@ There is no much difference in salary distribution between male and female, but 
 
 #To Find out of the company Palmora meets the Requirement of $90,000 salary to its staff
 They did not  reach the requirement $90,000 Minimum per employee, according to the analysis carried out, because, about 117 employee are paid $80,000, so this is below what the government ask them to pay the employees.
+
+![gender pay gap by department](https://github.com/user-attachments/assets/8efeb896-a307-4603-923e-6fa1caeb1471)
+
 
