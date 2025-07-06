@@ -125,3 +125,9 @@ from the barchart above, it is seen that :
 1. In kaduna about 361 employees are paid salary
 2. In Abuja about 335 employees are paid salary
 3. In Lagos about 250 employees are paid salary.
+
+## Conclusion
+From the analysis we carried out, it is seen that the salaries are not distributed evenly acros both Genders and the company does not meet up with the goverment $90,000 regulation payment of its staff.
+
+## Reference
+Palmora manufacturing company, Nigeria
